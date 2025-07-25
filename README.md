@@ -6,7 +6,6 @@
 - ![1753235655127](images/README/1753235655127.png)
 - ![1753235670641](images/README/1753235670641.png)
 
-
 ## 1、安装BepInEx_win_x64_5.4.23.3.zip(这个在github中搜索一下)
 
 ## 2、安装XUnity.AutoTranslator-BepInEx-5.4.5.zip(这个在github中搜索一下)
@@ -75,8 +74,9 @@ FallbackFontTextMeshPro=BepInEx\Translation\zh-CN\Fonts\cnFonts_02
 ## 11、相关资源包：简化大家操作，就放一个自动翻译挂载的整合包，复制到游戏根目录下即可。请不要商用，保留出处即可。
 
 - https://github.com/aspnmy/XUnity.AutoTranslator_Citizen-Sleeper-2_zh-CN.git
-
 - 下载本git，覆盖在游戏的根目录下。翻译文件已经内置，哪怕连不上搜索引擎也可以使用。
+- 机翻文件的进度，这个是挂载组件，所以翻译文件进度需要等我游戏完好，每个分支都走一遍才有机翻文件
+- 精翻文件的进度，精翻文件是对机翻文件的内容进行审核，把高频没有歧义的英文翻译放置在精翻文件中，这样全局就一套统一的翻译了，这个进度和机翻文件的进度基本一致。
 
 ## 12、常见问题：
 
